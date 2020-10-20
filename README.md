@@ -1,3 +1,5 @@
+### [![Header](https://github.com/gtmray/gtmray/blob/main/Rewan.jpg "Header")](http://rewan.com.np/)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Rewan's github stats](https://github-readme-stats.vercel.app/api?username=gtmray&show_icons=true&theme=radical)](https://github.com/gtmray/github-readme-stats)
